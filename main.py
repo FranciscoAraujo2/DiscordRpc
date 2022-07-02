@@ -28,5 +28,5 @@ while True:
         buttons =[{"label": LABEL1, "url": URL1},{"label": LABEL2, "url": URL2}],
         state = STATE
     )
-    time.sleep(600000)
     print('Rpc made by KIKO#5148')
+    time.sleep(600000)
